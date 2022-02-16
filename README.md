@@ -13,3 +13,9 @@ https://webpack.docschina.org/guides/getting-started/
 
 * 加载数据
   
+  #### 3、管理输出
+  * HtmlWebpackPlugin插件
+  * manifest文件
+  
+  
+
